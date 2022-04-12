@@ -1,1 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BEIN Sport premium 1" tvg-name="BEIN Sport premium 1" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www12.0zz0.com/2022/04/10/00/964889426.png" group-title="LOW Quality",BEIN Sport premium 1
+http://147.135.252.4:9001/live/beinp1.ts
+#EXTINF:-1 tvg-id="BEIN Sport premium 2" tvg-name="BEIN Sport premium 2" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www12.0zz0.com/2022/04/10/00/622776495.png" group-title="LOW Quality",BEIN Sport premium 2
+http://147.135.252.4:9001/live/beinp2.ts
+#EXTINF:-1 tvg-id="BEIN Sport premium 2" tvg-name="BEIN Sport premium 3" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www12.0zz0.com/2022/04/10/00/671016646.png" group-title="LOW Quality",BEIN Sport premium 3
+http://147.135.252.4:9001/live/beinp3.ts
+#EXTINF:-1 tvg-id="BEIN Sport 1" tvg-name="BEIN Sport 1" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www11.0zz0.com/2022/04/11/20/236571816.png" group-title="LOW Quality",BEIN Sport 1
+http://147.135.252.4:9001/live/bein1.ts
+#EXTINF:-1 tvg-id="BEIN Sport 2" tvg-name="BEIN Sport 2" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www11.0zz0.com/2022/04/11/20/403930426.png" group-title="LOW Quality",BEIN Sport 2
+http://147.135.252.4:9001/live/bein2.ts
+#EXTINF:-1 tvg-id="BEIN Sport 3" tvg-name="BEIN Sport 3" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www11.0zz0.com/2022/04/11/20/729808251.png" group-title="LOW Quality",BEIN Sport 3
+http://147.135.252.4:9001/live/bein3.ts
+#EXTINF:-1 tvg-id="BEIN Sport 4" tvg-name="BEIN Sport 4" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www3.0zz0.com/2022/04/11/20/220149275.png" group-title="LOW Quality",BEIN Sport 4
+http://147.135.252.4:9001/live/bein4.ts
+#EXTINF:-1 tvg-id="BEIN Sport 5" tvg-name="BEIN Sport 5" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www3.0zz0.com/2022/04/11/20/459446421.png" group-title="LOW Quality",BEIN Sport 5
+http://147.135.252.4:9001/live/bein5.ts
+#EXTINF:-1 tvg-id="BEIN Sport 6" tvg-name="BEIN Sport 6" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www3.0zz0.com/2022/04/11/20/286898302.png" group-title="LOW Quality",BEIN Sport 6
+http://147.135.252.4:9001/live/bein6.ts
+#EXTINF:-1 tvg-id="BEIN Sport 7" tvg-name="BEIN Sport 7" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www12.0zz0.com/2022/04/11/20/984960833.png" group-title="LOW Quality",BEIN Sport 7
+http://147.135.252.4:9001/live/bein7.ts
+#EXTINF:-1 tvg-id="SARDIA Sport premium 1" tvg-name="SARDIA Sport premium 1" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/395178004.png" group-title="HIGH Quality",SARDIA Sport premium 1
+http://147.135.252.4:9001/live/beinp1.ts
+#EXTINF:-1 tvg-id="SARDIA Sport premium 2" tvg-name="SARDIA Sport premium 2" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/165667248.png" group-title="HIGH Quality",SARDIA Sport premium 2http://147.135.252.4:9001/live/beinp2.ts
+#EXTINF:-1 tvg-id="SARDIA Sport premium 3" tvg-name="SARDIA Sport premium 3" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/285385347.png" group-title="HIGH Quality",SARDIA Sport premium 3
 
+http://147.135.252.4:9001/live/beinp3.ts
+#EXTINF:-1 tvg-id="SARDIA Sport 1" tvg-name="SARDIA Sport 1" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/573116230.png" group-title="HIGH Quality",SARDIA Sport 1
+http://147.135.252.4:9001/live/bein1.ts
+#EXTINF:-1 tvg-id="SARDIA Sport 2" tvg-name="SARDIA Sport 2" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/383887899.png" group-title="HIGH Quality",SARDIA Sport 2
+http://147.135.252.4:9001/live/bein2.ts
+#EXTINF:-1 tvg-id="SARDIA Sport 3" tvg-name="SARDIA Sport 3" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/901422000.png" group-title="HIGH Quality",SARDIA Sport 3
+http://147.135.252.4:9001/live/bein3.ts
+#EXTINF:-1 tvg-id="SARDIA Sport 4" tvg-name="SARDIA Sport 4" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/576624307.png" group-title="HIGH Quality",SARDIA Sport 4
+http://147.135.252.4:9001/live/bein4.ts
+#EXTINF:-1 tvg-id="SARDIA Sport 5" tvg-name="SARDIA Sport 5" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/743821159.png" group-title="HIGH Quality",SARDIA Sport 5
+http://147.135.252.4:9001/live/bein5.ts
+#EXTINF:-1 tvg-id="SARDIA Sport 6" tvg-name="SARDIA Sport 6" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/399890310.png" group-title="HIGH Quality",SARDIA Sport 6
+http://147.135.252.4:9001/live/bein6.ts
+#EXTINF:-1 tvg-id="SARDIA Sport 7" tvg-name="SARDIA Sport 7" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www10.0zz0.com/2022/04/12/00/845518512.png" group-title="HIGH Quality",SARDIA Sport 7
+http://147.135.252.4:9001/live/bein7.ts
