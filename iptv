@@ -39,5 +39,5 @@ http://45.135.194.73:80/BS5/mpegts
 http://45.135.194.73:80/BS6/mpegts
 #EXTINF:-1 tvg-id="BEIN 7" tvg-name="BEIN 7" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://www12.0zz0.com/2022/04/11/20/984960833.png" group-title="النت القوي",BEIN 7
 http://45.135.194.73:80/BS7/mpegts
-#EXTINF:-1 tvg-id="Sheikh Noreen" tvg-name="Sheikh Noreen" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="islamic",Sheikh Noreen
+#EXTINF:-1 tvg-id="Sheikh Noreen" tvg-name="Sheikh Noreen" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="سلاميـ(أبوربــان)ــات",Sheikh Noreen
 http://tijaniyyah.asuscomm.com:8000/stream/2/
