@@ -41,8 +41,6 @@ http://45.135.194.73:80/BS6/mpegts
 http://45.135.194.73:80/BS7/mpegts
 #EXTINF:-1 tvg-id="Sheikh Noreen" tvg-name="Sheikh Noreen" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="إسلاميـ(أبوريان)ـات",Sheikh Noreen
 http://tijaniyyah.asuscomm.com:8000/stream/2/
-#EXTINF:-1 tvg-id="Quran Live" tvg-name="Quran Live" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="إسلاميـ(أبوريان)ـات",Quran Live
-http://s2.voscast.com:12312/
 #EXTINF:-1 tvg-id="Abdul Basit AdulSamad " tvg-name="Abdul Basit AdulSamad " tvg-country="AT" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="إسلاميـ(أبوريان)ـات",Abdul Basit AdulSamad
 http://live.mp3quran.net:9956/
 #EXTINF:-1 tvg-id="Quran Tafsir" tvg-name="Quran Tafsir" tvg-country="AT" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="إسلاميـ(أبوريان)ـات",Quran Tafsir
